@@ -1,2 +1,2 @@
 # Pysteroids
-A Python implementation of the classic game Asteroids.
+Pysteroids is a [Pygame](https://www.pygame.org/wiki/about) implementation of the classic game Asteroids.
